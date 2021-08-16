@@ -1,14 +1,14 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Astryd.
 
 ### Right now, I'm...
 
 🌱 a B.Sc Service Design Engineering, B.A.Sc Art & Technology student. <br />
 😍 building a bridge between an art and a programming. <br />
-📫 How to reach me: me@cameronpark.me (palindromic, huh?)
+📫 How to reach me: me@astrydpark.me (palindromic, huh?)
 
 ### What I'm focusing on 💻📝🎨🎸
 
-Builds my portfolio webpage, writes a SF novel, ands practice comic book style drawing.<br />
+Builds my portfolio webpage, writes a SF novel, ands practise comic book style drawing.<br />
 
 ### My Skills ✨
 <p align='center'>
@@ -30,20 +30,3 @@ Builds my portfolio webpage, writes a SF novel, ands practice comic book style d
 ### Fun fact 👀
 
 I remember almost every single name of furnitures of IKEA.
-
-### Connect with me 🙏🏻
-<a href="https://www.linkedin.com/in/suyonpark/">
-  <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-<a href="https://instagram.com/rollingbb8">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/rollingbb8/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/camwalker1115?si=rwnsitPvRXuqr3WIFlAPLw">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyonpark&show_icons=true&locale=en&layout=compact" alt="suyonpark" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyonpark&show_icons=true&locale=en" alt="suyonpark" /></p>
